@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwasmcloud_com=self.webpackChunkwasmcloud_com||[]).push([["27627"],{47548:function(o){o.exports=JSON.parse('{"blogBasePath":"/blog","blogTitle":"Blog","authorsListPath":"/blog/authors"}')}}]);

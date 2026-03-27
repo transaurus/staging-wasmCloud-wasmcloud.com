@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://wasmcloud.com/blog/</id>
+    <title>wasmCloud Blog</title>
+    <updated>2026-03-23T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://wasmcloud.com/blog/"/>
+    <subtitle>wasmCloud Blog</subtitle>
+    <icon>https://wasmcloud.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[wasmCloud v2.0 is here]]></title>
+        <id>https://wasmcloud.com/blog/wasmcloud-v2-is-here/</id>
+        <link href="https://wasmcloud.com/blog/wasmcloud-v2-is-here/"/>
+        <updated>2026-03-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[wasmCloud v2.0 is a reimagining of the wasmCloud platform: Kubernetes-native, radically simplified, and more powerful than ever.]]></summary>
+        <author>
+            <name>Eric Gregory</name>
+            <uri>https://github.com/ericgregory</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[wasmCloud at KubeCon + CloudNativeCon EU 2026]]></title>
+        <id>https://wasmcloud.com/blog/wasmcloud-at-kubecon-cloudnativecon-eu-2026/</id>
+        <link href="https://wasmcloud.com/blog/wasmcloud-at-kubecon-cloudnativecon-eu-2026/"/>
+        <updated>2026-03-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Meet the wasmCloud team at KubeCon + CloudNativeCon EU 2026 in Amsterdam!]]></summary>
+        <author>
+            <name>Eric Gregory</name>
+            <uri>https://github.com/ericgregory</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WasmCon NA 2025 Liveblog]]></title>
+        <id>https://wasmcloud.com/blog/wasmcon-na-25-liveblog/</id>
+        <link href="https://wasmcloud.com/blog/wasmcon-na-25-liveblog/"/>
+        <updated>2025-11-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Meet the wasmCloud team at KubeCon + CloudNativeCon NA 2025 in Atlanta!]]></summary>
+        <author>
+            <name>Eric Gregory</name>
+            <uri>https://github.com/ericgregory</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing the next-generation wasmCloud runtime]]></title>
+        <id>https://wasmcloud.com/blog/2025-11-05-introducing-the-next-generation-wasmcloud-runtime/</id>
+        <link href="https://wasmcloud.com/blog/2025-11-05-introducing-the-next-generation-wasmcloud-runtime/"/>
+        <updated>2025-11-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The new wash-runtime crate features a radically simplified architecture, focusing on being the best possible WebAssembly host implementation--and paving the way for many of the major initiatives on the project roadmap.]]></summary>
+        <author>
+            <name>Brooks Townsend</name>
+            <uri>https://github.com/brooksmtownsend</uri>
+        </author>
+        <author>
+            <name>Eric Gregory</name>
+            <uri>https://github.com/ericgregory</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[wasmCloud at KubeCon + CloudNativeCon NA 2025]]></title>
+        <id>https://wasmcloud.com/blog/wasmcloud-at-kubecon-cloudnativecon-na-2025/</id>
+        <link href="https://wasmcloud.com/blog/wasmcloud-at-kubecon-cloudnativecon-na-2025/"/>
+        <updated>2025-11-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Meet the wasmCloud team at KubeCon + CloudNativeCon NA 2025 in Atlanta!]]></summary>
+        <author>
+            <name>Eric Gregory</name>
+            <uri>https://github.com/ericgregory</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Securely Signing WebAssembly Components with Cosign (OIDC)]]></title>
+        <id>https://wasmcloud.com/blog/2025-09-02-securely-signing-wasm-components-with-cosign-oidc/</id>
+        <link href="https://wasmcloud.com/blog/2025-09-02-securely-signing-wasm-components-with-cosign-oidc/"/>
+        <updated>2025-09-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Build, sign, and verify WebAssembly component artifacts using Sigstore’s cosign with OIDC identity—secure, registry-native signatures for wasmCloud.]]></summary>
+        <author>
+            <name>Liam Randall</name>
+            <uri>https://github.com/liamrandall</uri>
+        </author>
+        <category label="WebAssembly" term="WebAssembly"/>
+        <category label="wasmCloud" term="wasmCloud"/>
+        <category label="security" term="security"/>
+        <category label="cosign" term="cosign"/>
+        <category label="OIDC" term="OIDC"/>
+        <category label="signing" term="signing"/>
+        <category label="OCI registry" term="OCI registry"/>
+        <category label="supply chain security" term="supply chain security"/>
+        <category label="WASI" term="WASI"/>
+        <category label="Wasm components" term="Wasm components"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing the wash CLI's new Wasm-powered plugin system]]></title>
+        <id>https://wasmcloud.com/blog/introducing-wash-wasm-powered-plugin-system/</id>
+        <link href="https://wasmcloud.com/blog/introducing-wash-wasm-powered-plugin-system/"/>
+        <updated>2025-08-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Why a Wasm-driven plugin model is so powerful for CLIs]]></summary>
+        <author>
+            <name>Brooks Townsend</name>
+            <uri>https://github.com/brooksmtownsend</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I wrote the GitHub Action for Wasm development with wash]]></title>
+        <id>https://wasmcloud.com/blog/2025-08-20-github-action-for-wasm-development-setup-wash/</id>
+        <link href="https://wasmcloud.com/blog/2025-08-20-github-action-for-wasm-development-setup-wash/"/>
+        <updated>2025-08-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Comparing approaches to authoring, maintaining, and publishing GitHub Actions.]]></summary>
+        <author>
+            <name>Bailey Hayes</name>
+            <uri>https://github.com/ricochet</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Good first issues: Q3 2025]]></title>
+        <id>https://wasmcloud.com/blog/2025-08-15-good-first-issues-q3-2025/</id>
+        <link href="https://wasmcloud.com/blog/2025-08-15-good-first-issues-q3-2025/"/>
+        <updated>2025-08-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Whether you're a veteran wasmCloud user or brand new to the Wasm ecosystem, there are tons of opportunities for folks of all experience levels to contribute.]]></summary>
+        <author>
+            <name>Eric Gregory</name>
+            <uri>https://github.com/ericgregory</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Q3 2025 Roadmap Recap]]></title>
+        <id>https://wasmcloud.com/blog/2025-07-15-q3-2025-roadmap-recap/</id>
+        <link href="https://wasmcloud.com/blog/2025-07-15-q3-2025-roadmap-recap/"/>
+        <updated>2025-07-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Recapping the major initiatives that emerged from the Q3 2025 roadmap planning meeting.]]></summary>
+        <author>
+            <name>Eric Gregory</name>
+            <uri>https://github.com/ericgregory</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Charting the next steps for wasmCloud]]></title>
+        <id>https://wasmcloud.com/blog/charting-the-next-steps-for-wasmcloud/</id>
+        <link href="https://wasmcloud.com/blog/charting-the-next-steps-for-wasmcloud/"/>
+        <updated>2025-07-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Looking back and looking forward to chart the next steps for wasmCloud.]]></summary>
+        <author>
+            <name>Brooks Townsend</name>
+            <uri>https://github.com/brooksmtownsend</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One year of wasmCloud 1.0]]></title>
+        <id>https://wasmcloud.com/blog/2025-05-21-one-year-of-wasmcloud-1.0/</id>
+        <link href="https://wasmcloud.com/blog/2025-05-21-one-year-of-wasmcloud-1.0/"/>
+        <updated>2025-05-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Celebrating one year of wasmCloud 1.0.]]></summary>
+        <author>
+            <name>Brooks Townsend</name>
+            <uri>https://github.com/brooksmtownsend</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Platform engineering with WebAssembly and the platform harness pattern]]></title>
+        <id>https://wasmcloud.com/blog/2025-05-13-platform-engineering-with-webassembly-and-the-platform-harness-pattern/</id>
+        <link href="https://wasmcloud.com/blog/2025-05-13-platform-engineering-with-webassembly-and-the-platform-harness-pattern/"/>
+        <updated>2025-05-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[.]]></summary>
+        <author>
+            <name>Eric Gregory</name>
+            <uri>https://github.com/ericgregory</uri>
+        </author>
+        <author>
+            <name>Bailey Hayes</name>
+            <uri>https://github.com/ricochet</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Statement on proposed changes to CNCF NATS.io licensing and ownership]]></title>
+        <id>https://wasmcloud.com/blog/2025-04-23-statement-on-nats/</id>
+        <link href="https://wasmcloud.com/blog/2025-04-23-statement-on-nats/"/>
+        <updated>2025-04-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The wasmCloud core team-and our leading contributors, including Cosmonic-are steadfastly committed to open source, the needs of our community, to core tenants of software foundation membership, and to the Cloud Native Computing Foundation (CNCF).]]></summary>
+        <author>
+            <name>Liam Randall</name>
+            <uri>https://github.com/liamrandall</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deploy wasmCloud on Azure Kubernetes Service (AKS)]]></title>
+        <id>https://wasmcloud.com/blog/2025-04-15-deploy-wasmcloud-on-azure-kubernetes-service-aks/</id>
+        <link href="https://wasmcloud.com/blog/2025-04-15-deploy-wasmcloud-on-azure-kubernetes-service-aks/"/>
+        <updated>2025-04-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn the basics of wasmCloud on AKS, including how it works, the tools you'll need to get started, and a quickstart for a simple deployment.]]></summary>
+        <author>
+            <name>Eric Gregory</name>
+            <uri>https://github.com/ericgregory</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[wasmCloud at KubeCon + CloudNativeCon Europe 2025]]></title>
+        <id>https://wasmcloud.com/blog/2025-04-01-wasmcloud-at-kubecon-cloudnativecon-europe-2025/</id>
+        <link href="https://wasmcloud.com/blog/2025-04-01-wasmcloud-at-kubecon-cloudnativecon-europe-2025/"/>
+        <updated>2025-04-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Join the wasmCloud community at KubeCon + CloudNativeCon Europe 2025.]]></summary>
+        <author>
+            <name>Caroline Tarbett</name>
+            <uri>https://github.com/CazJT</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why we're adopting SPIFFE for WebAssembly workload identity]]></title>
+        <id>https://wasmcloud.com/blog/2025-03-04-why-were-adopting-spiffe-for-webassembly-workload-identity/</id>
+        <link href="https://wasmcloud.com/blog/2025-03-04-why-were-adopting-spiffe-for-webassembly-workload-identity/"/>
+        <updated>2025-03-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Explore the SPIFFE specification’s background and learn why wasmCloud is adopting SPIFFE as the standard for introducing workload identity that spans on-prem, edge, and cloud estates.]]></summary>
+        <author>
+            <name>Joonas Bergius</name>
+            <uri>https://github.com/joonas</uri>
+        </author>
+        <author>
+            <name>Eric Gregory</name>
+            <uri>https://github.com/ericgregory</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing the wasmCloud benchmark chart]]></title>
+        <id>https://wasmcloud.com/blog/2025-02-18-introducing-the-wasmcloud-benchmark-chart/</id>
+        <link href="https://wasmcloud.com/blog/2025-02-18-introducing-the-wasmcloud-benchmark-chart/"/>
+        <updated>2025-02-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn about the Helm chart for benchmarking wasmCloud.]]></summary>
+        <author>
+            <name>Eric Gregory</name>
+            <uri>https://github.com/ericgregory</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adobe: Compiling C to WebAssembly components with wasmCloud]]></title>
+        <id>https://wasmcloud.com/blog/2025-02-03-compiling-c-to-webassembly-with-wasmcloud/</id>
+        <link href="https://wasmcloud.com/blog/2025-02-03-compiling-c-to-webassembly-with-wasmcloud/"/>
+        <updated>2025-02-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Explore a simple CRUD application in Go, compile the code to a WebAssembly component, and run it on wasmCloud using swappable, vendorless capabilities for HTTP service and key-value storage.]]></summary>
+        <author>
+            <name>Colin Murphy</name>
+            <uri>https://www.linkedin.com/in/colin-murphy-08b3601b/</uri>
+        </author>
+        <author>
+            <name>Caroline Tarbett</name>
+            <uri>https://github.com/CazJT</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Walkthrough: A wasmCloud CRUD application in Go]]></title>
+        <id>https://wasmcloud.com/blog/2025-01-23-walkthrough-a-wasmclod-crud-application-in-go/</id>
+        <link href="https://wasmcloud.com/blog/2025-01-23-walkthrough-a-wasmclod-crud-application-in-go/"/>
+        <updated>2025-01-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Explore a simple CRUD application in Go, compile the code to a WebAssembly component, and run it on wasmCloud using swappable, vendorless capabilities for HTTP service and key-value storage.]]></summary>
+        <author>
+            <name>Eric Gregory</name>
+            <uri>https://github.com/ericgregory</uri>
+        </author>
+    </entry>
+</feed>

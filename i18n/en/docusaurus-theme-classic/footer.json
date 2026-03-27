@@ -1,0 +1,70 @@
+{
+  "link.title.Community": {
+    "message": "Community",
+    "description": "The title of the footer links column with title=Community in the footer"
+  },
+  "link.title.Social": {
+    "message": "Social",
+    "description": "The title of the footer links column with title=Social in the footer"
+  },
+  "link.title.Organization": {
+    "message": "Organization",
+    "description": "The title of the footer links column with title=Organization in the footer"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/wasmcloud/"
+  },
+  "link.item.label.Contributing": {
+    "message": "Contributing",
+    "description": "The label of footer link with label=Contributing linking to https://github.com/wasmCloud/wasmCloud/blob/main/CONTRIBUTING.md"
+  },
+  "link.item.label.Slack": {
+    "message": "Slack",
+    "description": "The label of footer link with label=Slack linking to https://slack.wasmcloud.com"
+  },
+  "link.item.label.Calendar & wasmCloud Wednesdays": {
+    "message": "Calendar & wasmCloud Wednesdays",
+    "description": "The label of footer link with label=Calendar & wasmCloud Wednesdays linking to https://calendar.google.com/calendar/u/0/embed?src=c_6cm5hud8evuns4pe5ggu3h9qrs@group.calendar.google.com"
+  },
+  "link.item.label.Community Meeting Notes": {
+    "message": "Community Meeting Notes",
+    "description": "The label of footer link with label=Community Meeting Notes linking to /community"
+  },
+  "link.item.label.Twitter": {
+    "message": "Twitter",
+    "description": "The label of footer link with label=Twitter linking to https://twitter.com/wasmcloud"
+  },
+  "link.item.label.LinkedIn": {
+    "message": "LinkedIn",
+    "description": "The label of footer link with label=LinkedIn linking to https://www.linkedin.com/company/wasmCloud/"
+  },
+  "link.item.label.YouTube": {
+    "message": "YouTube",
+    "description": "The label of footer link with label=YouTube linking to https://www.youtube.com/wasmcloud"
+  },
+  "link.item.label.Security Assessment": {
+    "message": "Security Assessment",
+    "description": "The label of footer link with label=Security Assessment linking to https://ostif.org/ostif-has-completed-a-security-audit-of-wasmcloud/"
+  },
+  "link.item.label.Privacy Policy": {
+    "message": "Privacy Policy",
+    "description": "The label of footer link with label=Privacy Policy linking to /privacy-policy"
+  },
+  "link.item.label.Terms and Conditions": {
+    "message": "Terms and Conditions",
+    "description": "The label of footer link with label=Terms and Conditions linking to /terms-conditions"
+  },
+  "link.item.label.Contact & Mailing List": {
+    "message": "Contact & Mailing List",
+    "description": "The label of footer link with label=Contact & Mailing List linking to /contact"
+  },
+  "link.item.label.wasmCloud Swag": {
+    "message": "wasmCloud Swag",
+    "description": "The label of footer link with label=wasmCloud Swag linking to /swag"
+  },
+  "copyright": {
+    "message": "Copyright © 2026 wasmCloud LLC. All rights reserved. The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of The Linux Foundation, please see our Trademark Usage page: https://www.linuxfoundation.org/trademark-usage. Built with Docusaurus.",
+    "description": "The footer copyright"
+  }
+}

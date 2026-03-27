@@ -1,0 +1,66 @@
+{
+  "version.label": {
+    "message": "v2",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Quickstart": {
+    "message": "Quickstart",
+    "description": "The label for category Quickstart in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Overview": {
+    "message": "Overview",
+    "description": "The label for category Overview in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Workloads": {
+    "message": "Workloads",
+    "description": "The label for category Workloads in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Hosts": {
+    "message": "Hosts",
+    "description": "The label for category Hosts in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Wasm Shell (wash) CLI": {
+    "message": "Wasm Shell (wash) CLI",
+    "description": "The label for category Wasm Shell (wash) CLI in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Runtime": {
+    "message": "Runtime",
+    "description": "The label for category Runtime in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Kubernetes Operator": {
+    "message": "Kubernetes Operator",
+    "description": "The label for category Kubernetes Operator in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Operator Manual": {
+    "message": "Operator Manual",
+    "description": "The label for category Operator Manual in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Developing Workloads": {
+    "message": "Developing Workloads",
+    "description": "The label for category Developing Workloads in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Language Support": {
+    "message": "Language Support",
+    "description": "The label for category Language Support in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.TypeScript Language Guide": {
+    "message": "TypeScript Language Guide",
+    "description": "The label for category TypeScript Language Guide in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Contributing": {
+    "message": "Contributing",
+    "description": "The label for category Contributing in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.link.Roadmap ↗": {
+    "message": "Roadmap ↗",
+    "description": "The label for link Roadmap ↗ in sidebar tutorialSidebar, linking to https://github.com/orgs/wasmCloud/projects/7"
+  },
+  "sidebar.tutorialSidebar.doc.Introduction": {
+    "message": "Introduction",
+    "description": "The label for the doc item Introduction in sidebar tutorialSidebar, linking to the doc wash/developer-guide/index"
+  },
+  "sidebar.tutorialSidebar.doc.Building and Publishing Components": {
+    "message": "Building and Publishing Components",
+    "description": "The label for the doc item Building and Publishing Components in sidebar tutorialSidebar, linking to the doc wash/developer-guide/build-and-publish"
+  }
+}

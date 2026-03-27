@@ -1,0 +1,121 @@
+---
+title: 'Introduction'
+sidebar_position: 0
+toc_max_heading_level: 2
+---
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+# Wasm Shell (wash) CLI
+
+### **Wasm Shell** (`wash`) is the comprehensive command-line tool for developing, building, and publishing WebAssembly components. 
+
+The CLI provides an intuitive developer experience for the modern Wasm ecosystem, from project scaffolding to building and pushing components to OCI registries.
+
+The Wasm Shell CLI is [available on GitHub](https://github.com/wasmcloud/wasmCloud) as part of the open source [wasmCloud](https://github.com/wasmCloud) project, hosted by the [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/). 
+
+## Install `wash`
+
+<Tabs groupId="os" queryString>
+  <TabItem value="macoslinux" label="macOS and Linux" default>
+
+```shell
+curl -fsSL https://wasmcloud.com/sh | bash
+```
+
+On a successful installation, the script will return:
+
+```shell
+[INFO] Next steps:
+  1. Add /path/to to your PATH if not already included
+  2. Run 'wash --help' to see available commands
+  3. Run 'wash new' to create your first WebAssembly component
+```
+
+Add `wash` to your PATH with the filepath listed in Step 1, replacing `/path/to` with your local filepath:
+
+```shell
+export PATH="$PATH:/path/to/wash"
+```
+
+  </TabItem>
+
+  <TabItem value="windows" label="Windows">
+
+```powershell
+iwr -useb https://wasmcloud.com/ps1 | iex
+```
+
+```powershell
+Next steps:
+  1. Add /path/to to your PATH if not already included
+  2. Run 'wash --help' to see available commands
+  3. Run 'wash new' to create your first WebAssembly component
+```
+
+To add `wash` to your PATH by updating your PowerShell profile, add the filepath for `wash` returned above to your profile, replacing `/path/to` with your local filepath:
+
+```powershell
+notepad $PROFILE
+```
+```powershell
+$env:Path += ";C:\path\to\wash"
+```
+
+  </TabItem>
+
+  <TabItem value="source" label="Source">
+
+You will need [`cargo`](https://doc.rust-lang.org/cargo/getting-started/installation.html) to install from source.
+
+```shell
+git clone https://github.com/wasmcloud/wasmCloud.git
+cd wasmCloud
+cargo install --path crates/wash-cli
+```
+
+  </TabItem>
+</Tabs>
+
+Pre-built binaries for macOS, Linux, and Windows are [available on GitHub](https://github.com/wasmcloud/wasmCloud/releases).
+
+## What does `wash` do?
+
+:::note[]
+This quick command tour requires the [Rust toolchain](https://www.rust-lang.org/tools/install) and the `wasm32-wasip2` target for Rust: `rustup target add wasm32-wasip2`
+:::
+
+Create a new component and navigate to the project directory:
+
+   ```shell
+   wash new https://github.com/wasmCloud/wasmCloud.git --subfolder examples/http-hello-world --name hello
+   ```
+   ```shell
+   cd hello
+   ```
+
+Build a component project into a WebAssembly binary:
+
+   ```shell
+   wash build
+   ```
+
+Start a component development loop:
+
+   ```shell
+   wash dev
+   ```
+
+Update `wash`:
+
+   ```shell
+   wash update
+   ```
+
+## Next steps
+
+* Explore the `wash` CLI's [Command Reference](./commands.mdx).
+* Read the [Developer Guide](./developer-guide/index.mdx) to create a WebAssembly component.
+
+

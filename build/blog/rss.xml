@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>wasmCloud Blog</title>
+        <link>https://wasmcloud.com/blog/</link>
+        <description>wasmCloud Blog</description>
+        <lastBuildDate>Mon, 23 Mar 2026 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[wasmCloud v2.0 is here]]></title>
+            <link>https://wasmcloud.com/blog/wasmcloud-v2-is-here/</link>
+            <guid>https://wasmcloud.com/blog/wasmcloud-v2-is-here/</guid>
+            <pubDate>Mon, 23 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[wasmCloud v2.0 is a reimagining of the wasmCloud platform: Kubernetes-native, radically simplified, and more powerful than ever.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[wasmCloud at KubeCon + CloudNativeCon EU 2026]]></title>
+            <link>https://wasmcloud.com/blog/wasmcloud-at-kubecon-cloudnativecon-eu-2026/</link>
+            <guid>https://wasmcloud.com/blog/wasmcloud-at-kubecon-cloudnativecon-eu-2026/</guid>
+            <pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Meet the wasmCloud team at KubeCon + CloudNativeCon EU 2026 in Amsterdam!]]></description>
+        </item>
+        <item>
+            <title><![CDATA[WasmCon NA 2025 Liveblog]]></title>
+            <link>https://wasmcloud.com/blog/wasmcon-na-25-liveblog/</link>
+            <guid>https://wasmcloud.com/blog/wasmcon-na-25-liveblog/</guid>
+            <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Meet the wasmCloud team at KubeCon + CloudNativeCon NA 2025 in Atlanta!]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Introducing the next-generation wasmCloud runtime]]></title>
+            <link>https://wasmcloud.com/blog/2025-11-05-introducing-the-next-generation-wasmcloud-runtime/</link>
+            <guid>https://wasmcloud.com/blog/2025-11-05-introducing-the-next-generation-wasmcloud-runtime/</guid>
+            <pubDate>Wed, 05 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The new wash-runtime crate features a radically simplified architecture, focusing on being the best possible WebAssembly host implementation--and paving the way for many of the major initiatives on the project roadmap.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[wasmCloud at KubeCon + CloudNativeCon NA 2025]]></title>
+            <link>https://wasmcloud.com/blog/wasmcloud-at-kubecon-cloudnativecon-na-2025/</link>
+            <guid>https://wasmcloud.com/blog/wasmcloud-at-kubecon-cloudnativecon-na-2025/</guid>
+            <pubDate>Wed, 05 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Meet the wasmCloud team at KubeCon + CloudNativeCon NA 2025 in Atlanta!]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Securely Signing WebAssembly Components with Cosign (OIDC)]]></title>
+            <link>https://wasmcloud.com/blog/2025-09-02-securely-signing-wasm-components-with-cosign-oidc/</link>
+            <guid>https://wasmcloud.com/blog/2025-09-02-securely-signing-wasm-components-with-cosign-oidc/</guid>
+            <pubDate>Tue, 02 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Build, sign, and verify WebAssembly component artifacts using Sigstore’s cosign with OIDC identity—secure, registry-native signatures for wasmCloud.]]></description>
+            <category>WebAssembly</category>
+            <category>wasmCloud</category>
+            <category>security</category>
+            <category>cosign</category>
+            <category>OIDC</category>
+            <category>signing</category>
+            <category>OCI registry</category>
+            <category>supply chain security</category>
+            <category>WASI</category>
+            <category>Wasm components</category>
+        </item>
+        <item>
+            <title><![CDATA[Introducing the wash CLI's new Wasm-powered plugin system]]></title>
+            <link>https://wasmcloud.com/blog/introducing-wash-wasm-powered-plugin-system/</link>
+            <guid>https://wasmcloud.com/blog/introducing-wash-wasm-powered-plugin-system/</guid>
+            <pubDate>Wed, 27 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Why a Wasm-driven plugin model is so powerful for CLIs]]></description>
+        </item>
+        <item>
+            <title><![CDATA[How I wrote the GitHub Action for Wasm development with wash]]></title>
+            <link>https://wasmcloud.com/blog/2025-08-20-github-action-for-wasm-development-setup-wash/</link>
+            <guid>https://wasmcloud.com/blog/2025-08-20-github-action-for-wasm-development-setup-wash/</guid>
+            <pubDate>Wed, 20 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Comparing approaches to authoring, maintaining, and publishing GitHub Actions.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Good first issues: Q3 2025]]></title>
+            <link>https://wasmcloud.com/blog/2025-08-15-good-first-issues-q3-2025/</link>
+            <guid>https://wasmcloud.com/blog/2025-08-15-good-first-issues-q3-2025/</guid>
+            <pubDate>Fri, 15 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Whether you're a veteran wasmCloud user or brand new to the Wasm ecosystem, there are tons of opportunities for folks of all experience levels to contribute.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Q3 2025 Roadmap Recap]]></title>
+            <link>https://wasmcloud.com/blog/2025-07-15-q3-2025-roadmap-recap/</link>
+            <guid>https://wasmcloud.com/blog/2025-07-15-q3-2025-roadmap-recap/</guid>
+            <pubDate>Tue, 15 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Recapping the major initiatives that emerged from the Q3 2025 roadmap planning meeting.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Charting the next steps for wasmCloud]]></title>
+            <link>https://wasmcloud.com/blog/charting-the-next-steps-for-wasmcloud/</link>
+            <guid>https://wasmcloud.com/blog/charting-the-next-steps-for-wasmcloud/</guid>
+            <pubDate>Thu, 03 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Looking back and looking forward to chart the next steps for wasmCloud.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[One year of wasmCloud 1.0]]></title>
+            <link>https://wasmcloud.com/blog/2025-05-21-one-year-of-wasmcloud-1.0/</link>
+            <guid>https://wasmcloud.com/blog/2025-05-21-one-year-of-wasmcloud-1.0/</guid>
+            <pubDate>Wed, 21 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Celebrating one year of wasmCloud 1.0.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Platform engineering with WebAssembly and the platform harness pattern]]></title>
+            <link>https://wasmcloud.com/blog/2025-05-13-platform-engineering-with-webassembly-and-the-platform-harness-pattern/</link>
+            <guid>https://wasmcloud.com/blog/2025-05-13-platform-engineering-with-webassembly-and-the-platform-harness-pattern/</guid>
+            <pubDate>Tue, 13 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Statement on proposed changes to CNCF NATS.io licensing and ownership]]></title>
+            <link>https://wasmcloud.com/blog/2025-04-23-statement-on-nats/</link>
+            <guid>https://wasmcloud.com/blog/2025-04-23-statement-on-nats/</guid>
+            <pubDate>Fri, 25 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The wasmCloud core team-and our leading contributors, including Cosmonic-are steadfastly committed to open source, the needs of our community, to core tenants of software foundation membership, and to the Cloud Native Computing Foundation (CNCF).]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Deploy wasmCloud on Azure Kubernetes Service (AKS)]]></title>
+            <link>https://wasmcloud.com/blog/2025-04-15-deploy-wasmcloud-on-azure-kubernetes-service-aks/</link>
+            <guid>https://wasmcloud.com/blog/2025-04-15-deploy-wasmcloud-on-azure-kubernetes-service-aks/</guid>
+            <pubDate>Tue, 15 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Learn the basics of wasmCloud on AKS, including how it works, the tools you'll need to get started, and a quickstart for a simple deployment.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[wasmCloud at KubeCon + CloudNativeCon Europe 2025]]></title>
+            <link>https://wasmcloud.com/blog/2025-04-01-wasmcloud-at-kubecon-cloudnativecon-europe-2025/</link>
+            <guid>https://wasmcloud.com/blog/2025-04-01-wasmcloud-at-kubecon-cloudnativecon-europe-2025/</guid>
+            <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Join the wasmCloud community at KubeCon + CloudNativeCon Europe 2025.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Why we're adopting SPIFFE for WebAssembly workload identity]]></title>
+            <link>https://wasmcloud.com/blog/2025-03-04-why-were-adopting-spiffe-for-webassembly-workload-identity/</link>
+            <guid>https://wasmcloud.com/blog/2025-03-04-why-were-adopting-spiffe-for-webassembly-workload-identity/</guid>
+            <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Explore the SPIFFE specification’s background and learn why wasmCloud is adopting SPIFFE as the standard for introducing workload identity that spans on-prem, edge, and cloud estates.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Introducing the wasmCloud benchmark chart]]></title>
+            <link>https://wasmcloud.com/blog/2025-02-18-introducing-the-wasmcloud-benchmark-chart/</link>
+            <guid>https://wasmcloud.com/blog/2025-02-18-introducing-the-wasmcloud-benchmark-chart/</guid>
+            <pubDate>Tue, 18 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Learn about the Helm chart for benchmarking wasmCloud.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Adobe: Compiling C to WebAssembly components with wasmCloud]]></title>
+            <link>https://wasmcloud.com/blog/2025-02-03-compiling-c-to-webassembly-with-wasmcloud/</link>
+            <guid>https://wasmcloud.com/blog/2025-02-03-compiling-c-to-webassembly-with-wasmcloud/</guid>
+            <pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Explore a simple CRUD application in Go, compile the code to a WebAssembly component, and run it on wasmCloud using swappable, vendorless capabilities for HTTP service and key-value storage.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Walkthrough: A wasmCloud CRUD application in Go]]></title>
+            <link>https://wasmcloud.com/blog/2025-01-23-walkthrough-a-wasmclod-crud-application-in-go/</link>
+            <guid>https://wasmcloud.com/blog/2025-01-23-walkthrough-a-wasmclod-crud-application-in-go/</guid>
+            <pubDate>Mon, 27 Jan 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Explore a simple CRUD application in Go, compile the code to a WebAssembly component, and run it on wasmCloud using swappable, vendorless capabilities for HTTP service and key-value storage.]]></description>
+        </item>
+    </channel>
+</rss>

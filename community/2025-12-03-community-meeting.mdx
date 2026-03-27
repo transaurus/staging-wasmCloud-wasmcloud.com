@@ -1,0 +1,39 @@
+---
+date: '2025-12-03'
+title: 'Meeting Agenda - 2025-12-03'
+---
+
+## Agenda
+
+{/* Update before the start of the meeting with planned agenda items */}
+
+- wasmCloud v2 services update
+- WASI monorepo
+
+{/* truncate */}
+
+## Meeting Notes
+
+{/* Add summary of topics during the meeting. Each Topic should have an H3 heading. A list is usually sufficient for the recap */}
+
+### DEMO AND DISCUSSION: Services update
+
+* Lucas discussed and demonstrated the wasmCloud v2 concept of "services."
+* In wasmCloud V2, workloads are composed of many components, which are stateless and invocation-based. Services, however, are stateful, and can act like localhost for your components.
+* Services can open TCP sockets, enabling them to manage persistent connections, provide connection pooling, proxying, and more. Components within a workload can connect to these services via localhost.
+* Services are useful for things like managing database connections (e.g., running a PG bouncer), handling large amounts of memory, or maintaining state across multiple invocations.
+* Maintainers are actively working on services, including development with `wash`. 
+
+## Weekly highlights
+
+## Community Updates
+
+- WASI is now organized as a monorepo at [https://github.com/WebAssembly/WASI](https://github.com/WebAssembly/WASI)
+
+## Recording
+
+{/* Automated - No need to adjust this unless automation fails */}
+
+<YouTube url="https://www.youtube.com/watch?v=_aBptBrH-Gg" />
+
+

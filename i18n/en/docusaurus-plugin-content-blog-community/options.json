@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "Community Calls",
+    "description": "The title for the blog used in SEO"
+  },
+  "description": {
+    "message": "Weekly wasmCloud Wednesday agendas, notes, and recordings.",
+    "description": "The description for the blog used in SEO"
+  },
+  "sidebar.title": {
+    "message": "Past Meetings",
+    "description": "The label for the left sidebar"
+  }
+}

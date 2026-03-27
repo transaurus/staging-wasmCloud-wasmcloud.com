@@ -1,0 +1,9 @@
+{
+    "label": "Kubernetes",
+    "position": 13,
+    "link": {
+      "type": "doc",
+      "id": "deployment/k8s/index"
+    }
+  }
+  

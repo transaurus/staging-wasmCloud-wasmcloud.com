@@ -1,0 +1,47 @@
+---
+title: "FAQ"
+sidebar_position: 11
+---
+
+This page includes frequently asked questions on wasmCloud v2, including common questions about [migration from wasmCloud v1](#migrating-from-wasmcloud-v1). For a comprehensive migration guide with architecture diagrams and practical instructions, see [Migration to v2](./migration.mdx).
+
+## General questions
+
+### Do I have to use Kubernetes with wasmCloud v2?
+
+No. The workload API exposed by the runtime can work with any orchestrator, so you can choose or create the solution that suits your environment. You can also use the operator with a stripped-down version of Kubernetes that includes only the K8s API server, for a straightforward but lightweight Kubernetes-native approach. 
+
+In real-world implementations, wasmCloud maintainers have found that the vast majority of users are deploying wasmCloud on Kubernetes. For wasmCloud v2, we're aiming to align smoothly to this most common scenario while preserving flexibility for a variety of deployment patterns including distributed edge environments.
+
+For now, maintainer time is focused on the prevailing Kubernetes use case, but we'd love to hear from folks who are interested in other deployment scenarios, and we strongly encourage contributors who would like to work on other scheduling implementations to get involved. 
+
+## Migrating from wasmCloud v1
+
+:::info
+For a comprehensive migration guide with architecture comparisons, diagrams, and step-by-step instructions, see the **[Migration to v2](./migration.mdx)** guide.
+:::
+
+### What happened to capability providers?
+
+In v1, capability providers were external processes that communicated over NATS. In v2, capabilities are provided through [host plugins](./overview/hosts/plugins.mdx) (recommended for shared, performance-critical capabilities), [service components](./overview/workloads/services.mdx) (for workload-specific long-running functionality), or containerized providers (for minimal-change migration of existing providers).
+
+For details and examples, see [Migrating capability providers](./migration.mdx#migrating-capability-providers).
+
+### Is `wadm` still a part of wasmCloud v2?
+
+No&mdash;the [runtime-operator](./kubernetes-operator/index.mdx) and the Kubernetes API now manage deployments. The operator acts as a reconciler, giving hosts the appropriate instructions to match the state specified to the Kubernetes API. Though wasmCloud v2 is designed to operate in a Kubernetes-native way, [it is not restricted to Kubernetes](#do-i-have-to-use-kubernetes-with-wasmcloud-v2).
+
+For more on the architectural changes, see [Architecture comparison](./migration.mdx#architecture-comparison).
+
+### What happened to the "Application" abstraction?
+
+The v1 "Application" has been replaced by the [Workload](./overview/workloads/index.mdx), which may include one or more components that communicate over interfaces. Components in the same workload are placed on the same host and linked at runtime.
+
+For a side-by-side manifest comparison, see [Migrating applications to workloads](./migration.mdx#migrating-applications-to-workloads).
+
+### How do distributed applications work in wasmCloud v2?
+
+In v2, distributed networking is [intentionally more explicit](https://github.com/orgs/wasmCloud/projects/7/views/15?pane=issue&itemId=119180761&issue=wasmCloud%7CwasmCloud%7C4640). Components within the same workload communicate in-process (~30,000 RPS). When distributed communication is needed, you'll use interfaces like `wasmcloud:messaging` with manual serialization/deserialization (~5,000 RPS).
+
+For more context, see [Migrating distributed networking](./migration.mdx#migrating-distributed-networking).
+

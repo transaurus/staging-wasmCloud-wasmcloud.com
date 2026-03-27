@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwasmcloud_com=self.webpackChunkwasmcloud_com||[]).push([["74647"],{82604:function(s){s.exports=JSON.parse('{"blogBasePath":"/community","blogTitle":"Community Calls","authorsListPath":"/community/authors"}')}}]);
