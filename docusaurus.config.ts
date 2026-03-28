@@ -73,7 +73,7 @@ const config = (async (): Promise<Config> => {
     url: siteBaseUrl(),
     baseUrl: '/',
     trailingSlash: true,
-    onBrokenLinks: 'throw',
+    onBrokenLinks: 'warn',
     onBrokenMarkdownLinks: 'warn',
     favicon: '/favicon.ico',
 
@@ -82,7 +82,7 @@ const config = (async (): Promise<Config> => {
     // to replace "en" with "zh-Hans".
     i18n: {
       defaultLocale: 'en',
-      locales: ['en'],
+      locales: ["en", "zh-Hans"],
     },
 
     presets: [

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://wasmcloud.com/zh-Hans/community/</id>
+    <title>wasmCloud Blog</title>
+    <updated>2026-03-25T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://wasmcloud.com/zh-Hans/community/"/>
+    <subtitle>wasmCloud Blog</subtitle>
+    <icon>https://wasmcloud.com/zh-Hans/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Meeting Agenda - 2026-03-25]]></title>
+        <id>https://wasmcloud.com/zh-Hans/community/2026/03/25/community-meeting/</id>
+        <link href="https://wasmcloud.com/zh-Hans/community/2026/03/25/community-meeting/"/>
+        <updated>2026-03-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Agenda]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meeting Agenda - 2026-03-18]]></title>
+        <id>https://wasmcloud.com/zh-Hans/community/2026/03/18/community-meeting/</id>
+        <link href="https://wasmcloud.com/zh-Hans/community/2026/03/18/community-meeting/"/>
+        <updated>2026-03-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Agenda]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[wasmCloud Meeting Agenda - 2026-03-11]]></title>
+        <id>https://wasmcloud.com/zh-Hans/community/2026/03/11/community-meeting/</id>
+        <link href="https://wasmcloud.com/zh-Hans/community/2026/03/11/community-meeting/"/>
+        <updated>2026-03-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[{/ truncate /}]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meeting Agenda - 2026-02-25]]></title>
+        <id>https://wasmcloud.com/zh-Hans/community/2026/02/25/community-meeting/</id>
+        <link href="https://wasmcloud.com/zh-Hans/community/2026/02/25/community-meeting/"/>
+        <updated>2026-02-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Agenda]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meeting Agenda - 2026-02-18]]></title>
+        <id>https://wasmcloud.com/zh-Hans/community/2026/02/18/community-meeting/</id>
+        <link href="https://wasmcloud.com/zh-Hans/community/2026/02/18/community-meeting/"/>
+        <updated>2026-02-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Agenda]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meeting Agenda - 2026-02-11]]></title>
+        <id>https://wasmcloud.com/zh-Hans/community/2026/02/11/community-meeting/</id>
+        <link href="https://wasmcloud.com/zh-Hans/community/2026/02/11/community-meeting/"/>
+        <updated>2026-02-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Agenda]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meeting Agenda - 2026-02-04]]></title>
+        <id>https://wasmcloud.com/zh-Hans/community/2026/02/04/community-meeting/</id>
+        <link href="https://wasmcloud.com/zh-Hans/community/2026/02/04/community-meeting/"/>
+        <updated>2026-02-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Agenda]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meeting Agenda - 2026-01-28]]></title>
+        <id>https://wasmcloud.com/zh-Hans/community/2026/01/28/community-meeting/</id>
+        <link href="https://wasmcloud.com/zh-Hans/community/2026/01/28/community-meeting/"/>
+        <updated>2026-01-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Agenda]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meeting Agenda - 2026-01-21]]></title>
+        <id>https://wasmcloud.com/zh-Hans/community/2026/01/21/community-meeting/</id>
+        <link href="https://wasmcloud.com/zh-Hans/community/2026/01/21/community-meeting/"/>
+        <updated>2026-01-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Agenda]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meeting Agenda - 2026-01-07]]></title>
+        <id>https://wasmcloud.com/zh-Hans/community/2026/01/07/community-meeting/</id>
+        <link href="https://wasmcloud.com/zh-Hans/community/2026/01/07/community-meeting/"/>
+        <updated>2026-01-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Agenda]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meeting Agenda - 2025-12-17 - wasmCloud v2 RC5 Update]]></title>
+        <id>https://wasmcloud.com/zh-Hans/community/2025/12/17/community-meeting/</id>
+        <link href="https://wasmcloud.com/zh-Hans/community/2025/12/17/community-meeting/"/>
+        <updated>2025-12-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Agenda]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meeting Agenda - 2025-12-10]]></title>
+        <id>https://wasmcloud.com/zh-Hans/community/2025/12/10/community-meeting/</id>
+        <link href="https://wasmcloud.com/zh-Hans/community/2025/12/10/community-meeting/"/>
+        <updated>2025-12-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Agenda]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meeting Agenda - 2025-12-03]]></title>
+        <id>https://wasmcloud.com/zh-Hans/community/2025/12/03/community-meeting/</id>
+        <link href="https://wasmcloud.com/zh-Hans/community/2025/12/03/community-meeting/"/>
+        <updated>2025-12-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Agenda]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meeting Agenda - 2025-11-26]]></title>
+        <id>https://wasmcloud.com/zh-Hans/community/2025/11/26/community-meeting/</id>
+        <link href="https://wasmcloud.com/zh-Hans/community/2025/11/26/community-meeting/"/>
+        <updated>2025-11-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Agenda]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meeting Agenda - 2025-11-19]]></title>
+        <id>https://wasmcloud.com/zh-Hans/community/2025/11/19/community-meeting/</id>
+        <link href="https://wasmcloud.com/zh-Hans/community/2025/11/19/community-meeting/"/>
+        <updated>2025-11-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Agenda]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meeting Agenda - 2025-11-12]]></title>
+        <id>https://wasmcloud.com/zh-Hans/community/2025/11/12/community-meeting/</id>
+        <link href="https://wasmcloud.com/zh-Hans/community/2025/11/12/community-meeting/"/>
+        <updated>2025-11-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Agenda]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meeting Agenda - 2025-11-05]]></title>
+        <id>https://wasmcloud.com/zh-Hans/community/2025/11/05/community-meeting/</id>
+        <link href="https://wasmcloud.com/zh-Hans/community/2025/11/05/community-meeting/"/>
+        <updated>2025-11-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Agenda]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meeting Agenda - 2025-10-29]]></title>
+        <id>https://wasmcloud.com/zh-Hans/community/2025/10/29/community-meeting/</id>
+        <link href="https://wasmcloud.com/zh-Hans/community/2025/10/29/community-meeting/"/>
+        <updated>2025-10-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Agenda]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meeting Agenda - 2025-10-22]]></title>
+        <id>https://wasmcloud.com/zh-Hans/community/2025/10/22/community-meeting/</id>
+        <link href="https://wasmcloud.com/zh-Hans/community/2025/10/22/community-meeting/"/>
+        <updated>2025-10-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Agenda]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meeting Agenda - 2025-10-08]]></title>
+        <id>https://wasmcloud.com/zh-Hans/community/2025/10/08/community-meeting/</id>
+        <link href="https://wasmcloud.com/zh-Hans/community/2025/10/08/community-meeting/"/>
+        <updated>2025-10-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Agenda]]></summary>
+    </entry>
+</feed>

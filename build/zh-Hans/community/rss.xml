@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>wasmCloud Blog</title>
+        <link>https://wasmcloud.com/zh-Hans/community/</link>
+        <description>wasmCloud Blog</description>
+        <lastBuildDate>Wed, 25 Mar 2026 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>zh-Hans</language>
+        <item>
+            <title><![CDATA[Meeting Agenda - 2026-03-25]]></title>
+            <link>https://wasmcloud.com/zh-Hans/community/2026/03/25/community-meeting/</link>
+            <guid>https://wasmcloud.com/zh-Hans/community/2026/03/25/community-meeting/</guid>
+            <pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Agenda]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Meeting Agenda - 2026-03-18]]></title>
+            <link>https://wasmcloud.com/zh-Hans/community/2026/03/18/community-meeting/</link>
+            <guid>https://wasmcloud.com/zh-Hans/community/2026/03/18/community-meeting/</guid>
+            <pubDate>Wed, 18 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Agenda]]></description>
+        </item>
+        <item>
+            <title><![CDATA[wasmCloud Meeting Agenda - 2026-03-11]]></title>
+            <link>https://wasmcloud.com/zh-Hans/community/2026/03/11/community-meeting/</link>
+            <guid>https://wasmcloud.com/zh-Hans/community/2026/03/11/community-meeting/</guid>
+            <pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[{/ truncate /}]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Meeting Agenda - 2026-02-25]]></title>
+            <link>https://wasmcloud.com/zh-Hans/community/2026/02/25/community-meeting/</link>
+            <guid>https://wasmcloud.com/zh-Hans/community/2026/02/25/community-meeting/</guid>
+            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Agenda]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Meeting Agenda - 2026-02-18]]></title>
+            <link>https://wasmcloud.com/zh-Hans/community/2026/02/18/community-meeting/</link>
+            <guid>https://wasmcloud.com/zh-Hans/community/2026/02/18/community-meeting/</guid>
+            <pubDate>Wed, 18 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Agenda]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Meeting Agenda - 2026-02-11]]></title>
+            <link>https://wasmcloud.com/zh-Hans/community/2026/02/11/community-meeting/</link>
+            <guid>https://wasmcloud.com/zh-Hans/community/2026/02/11/community-meeting/</guid>
+            <pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Agenda]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Meeting Agenda - 2026-02-04]]></title>
+            <link>https://wasmcloud.com/zh-Hans/community/2026/02/04/community-meeting/</link>
+            <guid>https://wasmcloud.com/zh-Hans/community/2026/02/04/community-meeting/</guid>
+            <pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Agenda]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Meeting Agenda - 2026-01-28]]></title>
+            <link>https://wasmcloud.com/zh-Hans/community/2026/01/28/community-meeting/</link>
+            <guid>https://wasmcloud.com/zh-Hans/community/2026/01/28/community-meeting/</guid>
+            <pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Agenda]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Meeting Agenda - 2026-01-21]]></title>
+            <link>https://wasmcloud.com/zh-Hans/community/2026/01/21/community-meeting/</link>
+            <guid>https://wasmcloud.com/zh-Hans/community/2026/01/21/community-meeting/</guid>
+            <pubDate>Wed, 21 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Agenda]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Meeting Agenda - 2026-01-07]]></title>
+            <link>https://wasmcloud.com/zh-Hans/community/2026/01/07/community-meeting/</link>
+            <guid>https://wasmcloud.com/zh-Hans/community/2026/01/07/community-meeting/</guid>
+            <pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Agenda]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Meeting Agenda - 2025-12-17 - wasmCloud v2 RC5 Update]]></title>
+            <link>https://wasmcloud.com/zh-Hans/community/2025/12/17/community-meeting/</link>
+            <guid>https://wasmcloud.com/zh-Hans/community/2025/12/17/community-meeting/</guid>
+            <pubDate>Wed, 17 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Agenda]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Meeting Agenda - 2025-12-10]]></title>
+            <link>https://wasmcloud.com/zh-Hans/community/2025/12/10/community-meeting/</link>
+            <guid>https://wasmcloud.com/zh-Hans/community/2025/12/10/community-meeting/</guid>
+            <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Agenda]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Meeting Agenda - 2025-12-03]]></title>
+            <link>https://wasmcloud.com/zh-Hans/community/2025/12/03/community-meeting/</link>
+            <guid>https://wasmcloud.com/zh-Hans/community/2025/12/03/community-meeting/</guid>
+            <pubDate>Wed, 03 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Agenda]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Meeting Agenda - 2025-11-26]]></title>
+            <link>https://wasmcloud.com/zh-Hans/community/2025/11/26/community-meeting/</link>
+            <guid>https://wasmcloud.com/zh-Hans/community/2025/11/26/community-meeting/</guid>
+            <pubDate>Wed, 26 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Agenda]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Meeting Agenda - 2025-11-19]]></title>
+            <link>https://wasmcloud.com/zh-Hans/community/2025/11/19/community-meeting/</link>
+            <guid>https://wasmcloud.com/zh-Hans/community/2025/11/19/community-meeting/</guid>
+            <pubDate>Wed, 19 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Agenda]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Meeting Agenda - 2025-11-12]]></title>
+            <link>https://wasmcloud.com/zh-Hans/community/2025/11/12/community-meeting/</link>
+            <guid>https://wasmcloud.com/zh-Hans/community/2025/11/12/community-meeting/</guid>
+            <pubDate>Wed, 12 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Agenda]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Meeting Agenda - 2025-11-05]]></title>
+            <link>https://wasmcloud.com/zh-Hans/community/2025/11/05/community-meeting/</link>
+            <guid>https://wasmcloud.com/zh-Hans/community/2025/11/05/community-meeting/</guid>
+            <pubDate>Wed, 05 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Agenda]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Meeting Agenda - 2025-10-29]]></title>
+            <link>https://wasmcloud.com/zh-Hans/community/2025/10/29/community-meeting/</link>
+            <guid>https://wasmcloud.com/zh-Hans/community/2025/10/29/community-meeting/</guid>
+            <pubDate>Wed, 29 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Agenda]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Meeting Agenda - 2025-10-22]]></title>
+            <link>https://wasmcloud.com/zh-Hans/community/2025/10/22/community-meeting/</link>
+            <guid>https://wasmcloud.com/zh-Hans/community/2025/10/22/community-meeting/</guid>
+            <pubDate>Wed, 22 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Agenda]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Meeting Agenda - 2025-10-08]]></title>
+            <link>https://wasmcloud.com/zh-Hans/community/2025/10/08/community-meeting/</link>
+            <guid>https://wasmcloud.com/zh-Hans/community/2025/10/08/community-meeting/</guid>
+            <pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Agenda]]></description>
+        </item>
+    </channel>
+</rss>

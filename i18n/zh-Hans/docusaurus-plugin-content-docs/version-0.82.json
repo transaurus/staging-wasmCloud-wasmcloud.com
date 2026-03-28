@@ -1,0 +1,178 @@
+{
+  "version.label": {
+    "message": "0.82",
+    "description": "The label for version 0.82"
+  },
+  "sidebar.defaultSidebar.category.Quickstart": {
+    "message": "Quickstart",
+    "description": "The label for category Quickstart in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Concepts": {
+    "message": "Concepts",
+    "description": "The label for category Concepts in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Concepts.link.generated-index.description": {
+    "message": "Core wasmCloud concepts and terminology",
+    "description": "The generated-index page description for category Concepts in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Developer Guide": {
+    "message": "Developer Guide",
+    "description": "The label for category Developer Guide in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Developer Guide.link.generated-index.description": {
+    "message": "Guides for developing with wasmCloud",
+    "description": "The generated-index page description for category Developer Guide in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Actors": {
+    "message": "Actors",
+    "description": "The label for category Actors in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Providers": {
+    "message": "Providers",
+    "description": "The label for category Providers in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Interfaces": {
+    "message": "Interfaces",
+    "description": "The label for category Interfaces in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Communication": {
+    "message": "Communication",
+    "description": "The label for category Communication in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Debugging": {
+    "message": "Debugging",
+    "description": "The label for category Debugging in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Operator Guide": {
+    "message": "Operator Guide",
+    "description": "The label for category Operator Guide in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Operator Guide.link.generated-index.description": {
+    "message": "Running wasmCloud in production should be almost as easy as running it locally on a workstation. Throughout this section, we will share patterns, practices, and specific instructions on how to deploy, provision, secure, and maintain wasmCloud in a real production environment",
+    "description": "The generated-index page description for category Operator Guide in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Provisioning NATS": {
+    "message": "Provisioning NATS",
+    "description": "The label for category Provisioning NATS in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Provisioning NATS.link.generated-index.description": {
+    "message": "How to provision a NATS cluster for wasmCloud.",
+    "description": "The generated-index page description for category Provisioning NATS in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Provisioning a Lattice": {
+    "message": "Provisioning a Lattice",
+    "description": "The label for category Provisioning a Lattice in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Lattice Security": {
+    "message": "Lattice Security",
+    "description": "The label for category Lattice Security in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Lattice Security.link.generated-index.description": {
+    "message": "How to keep a lattice secure.",
+    "description": "The generated-index page description for category Lattice Security in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Deploying wasmCloud Hosts": {
+    "message": "Deploying wasmCloud Hosts",
+    "description": "The label for category Deploying wasmCloud Hosts in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Deploying wasmCloud Hosts.link.generated-index.description": {
+    "message": "How to configure and interact with hosts in production.",
+    "description": "The generated-index page description for category Deploying wasmCloud Hosts in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Deploying Wadm": {
+    "message": "Deploying Wadm",
+    "description": "The label for category Deploying Wadm in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Observability": {
+    "message": "Observability",
+    "description": "The label for category Observability in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Observability.link.generated-index.description": {
+    "message": "How to maximize observability of wasmCloud",
+    "description": "The generated-index page description for category Observability in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Examples": {
+    "message": "Examples",
+    "description": "The label for category Examples in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Examples.link.generated-index.description": {
+    "message": "Step-by-step examples for building and deploying WebAssembly components with wasmCloud.",
+    "description": "The generated-index page description for category Examples in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Hosts": {
+    "message": "Hosts",
+    "description": "The label for category Hosts in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Hosts.link.generated-index.description": {
+    "message": "An exploration of wasmCloud hosts.",
+    "description": "The generated-index page description for category Hosts in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Lattice Protocol": {
+    "message": "Lattice Protocol",
+    "description": "The label for category Lattice Protocol in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Wasm ABIs": {
+    "message": "Wasm ABIs",
+    "description": "The label for category Wasm ABIs in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Wasm ABIs.link.generated-index.description": {
+    "message": "Protocols for Wasm Host/Guest Communications",
+    "description": "The generated-index page description for category Wasm ABIs in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Wasmbus (Stable ABI)": {
+    "message": "Wasmbus (Stable ABI)",
+    "description": "The label for category Wasmbus (Stable ABI) in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Interface Management": {
+    "message": "Interface Management",
+    "description": "The label for category Interface Management in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Tips": {
+    "message": "Tips",
+    "description": "The label for category Tips in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Elixir Host (OTP)": {
+    "message": "Elixir Host (OTP)",
+    "description": "The label for category Elixir Host (OTP) in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Creating a New Host": {
+    "message": "Creating a New Host",
+    "description": "The label for category Creating a New Host in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.CLI (wash)": {
+    "message": "CLI (wash)",
+    "description": "The label for category CLI (wash) in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.CLI (wash).link.generated-index.description": {
+    "message": "Wash (wasmCloud Shell) CLI",
+    "description": "The generated-index page description for category CLI (wash) in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Reference": {
+    "message": "Reference",
+    "description": "The label for category Reference in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.WASI": {
+    "message": "WASI",
+    "description": "The label for category WASI in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Ecosystem": {
+    "message": "Ecosystem",
+    "description": "The label for category Ecosystem in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.wasmCloud Shell (wash)": {
+    "message": "wasmCloud Shell (wash)",
+    "description": "The label for category wasmCloud Shell (wash) in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Declarative Application Deployment (wadm)": {
+    "message": "Declarative Application Deployment (wadm)",
+    "description": "The label for category Declarative Application Deployment (wadm) in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Declarative Application Deployment (wadm).link.generated-index.description": {
+    "message": "Deploying and Managing Applications",
+    "description": "The generated-index page description for category Declarative Application Deployment (wadm) in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Roadmap": {
+    "message": "Roadmap",
+    "description": "The label for category Roadmap in sidebar defaultSidebar"
+  }
+}
